@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: green;
+  font-family: 'Roboto', sans-serif;
+}
+
+nav ul {
+  background: grey;
+}
+
+nav li {
+  display: inline-block;
+  list-style: none;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+nav li:hover {
+  background: yellow;
+}
+
+section {
+  margin: 30px;
+}
+
+section li {
+  margin: 10px 30px;
+}
+
+.c3-nav {
+  text-align: center;
+}
+
+.blocky {
+  background: yellow;
+  padding: 50px;
+}
+
+.c3 {
+  width: 80%;
+  margin: 30px auto;
+}
+
+.c3 img {
+  width: 100%;
+}
+
+.text-block {
+  padding: 30px;
+  background: green;
+  margin: 20px 0px;
+}
